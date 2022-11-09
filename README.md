@@ -1,4 +1,4 @@
-# Pitcoin Wallet Linux 64 bit :
+# Pitcoin Updated Wallet Linux 64 bit :
 
 # Pitcoin Wallet Linux Version should work on any Linux Distros such as Ubuntu Debian Fedora and so on.
 
