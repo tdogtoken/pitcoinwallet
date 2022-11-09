@@ -25,7 +25,7 @@ sudo apt install qt5-default build-essential
 
 # We are updated, please re-download PitcoinWalletLinux and PitcoinCLI. And re-mine your new Pitcoin. With updated wallet, you are able to perform troubleshooting. Before you delete anything to perform troubleshooting, make sure back up your wallet first. To open your PitcoinCLI wallet by using PitcoinWalletLinux, go to “open wallet” on PitcoinWalletLinux, and then select back up wallet file in PitcoinCLI. The back up wallet file is with an extension name “.wallet”, for example, “Name.wallet”. In PitcoinCLI, you create wallet with extreme security with password, if you forgot password, there is no way and no one can get access to wallet even though you have back up wallet file. So please remember your password when create wallet on PitcoinCLI. See the video how to open back up wallet.
 
-
+# <p> <a href="https://youtu.be/mqCbKzpJ8JA" target="_blank" class="button">Troubleshooting Pitcoin Wallet Video Guide</a></P>
 This video shows how to troubleshoot Pitcoin Wallet.
 Since cryptocurrency is decentralized. Everyone should learn how to troubleshoot wallet.
 If you are students, we recommend you memorize all the command include previous videos command, will be very useful in your future to build projects.
