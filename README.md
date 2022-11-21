@@ -1,5 +1,6 @@
-# We are updated, please re-download PitcoinWalletLinux and PitcoinCLI. And re-mine your new Pitcoin. 
-# Pitcoin Updated Wallet Linux 64 bit :
+# Buy or Sell Pitcoin Video Guide, Click Below: 
+# <p> <a href="https://youtu.be/5bYHIqpEVLk" target="_blank" class="button">Pitcoin Exchange for Investor and Trader Video Guide</a></P>
+# Pitcoin Wallet Linux 64 bit :
 
 # Pitcoin Wallet Linux Version should work on any Linux Distros such as Ubuntu Debian Fedora and so on.
 
@@ -23,7 +24,7 @@ sudo apt install -y qtcreator qtbase5-dev qt5-qmake cmake
 sudo apt install qt5-default build-essential
 
 
-# We are updated, please re-download PitcoinWalletLinux and PitcoinCLI. And re-mine your new Pitcoin. With updated wallet, you are able to perform troubleshooting. Before you delete anything to perform troubleshooting, make sure back up your wallet first. To open your PitcoinCLI wallet by using PitcoinWalletLinux, go to “open wallet” on PitcoinWalletLinux, and then select back up wallet file in PitcoinCLI. The back up wallet file is with an extension name “.wallet”, for example, “Name.wallet”. In PitcoinCLI, you create wallet with extreme security with password, if you forgot password, there is no way and no one can get access to wallet even though you have back up wallet file. So please remember your password when create wallet on PitcoinCLI. See the video how to open back up wallet.
+# With Pitcoin wallet, you are able to perform troubleshooting. Before you delete anything to perform troubleshooting, make sure back up your wallet first. To open your PitcoinCLI wallet by using PitcoinWalletLinux, go to “open wallet” on PitcoinWalletLinux, and then select back up wallet file in PitcoinCLI. The back up wallet file is with an extension name “.wallet”, for example, “Name.wallet”. In PitcoinCLI, you create wallet with extreme security with password, if you forgot password, there is no way and no one can get access to wallet even though you have back up wallet file. So please remember your password when create wallet on PitcoinCLI. See the video how to open back up wallet.
 
 # <p> <a href="https://youtu.be/mqCbKzpJ8JA" target="_blank" class="button">Troubleshooting Pitcoin Wallet Video Guide</a></P>
 This video shows how to troubleshoot Pitcoin Wallet.
