@@ -7,7 +7,7 @@
 1. Dependencies Requirement: need to install Qt5 dependencies.
 
 2. Download PitcoinWallet: 
-https://github.com/tdogtoken/pitcoinwallet/archive/refs/heads/main.zip
+https://github.com/tdogtoken/pitcoinwallet/raw/main/PitcoinWalletLinux.zip
 
 3. After download, Unzip file, and then right click  PitcoinWalletLinux file select peroperty give file execution permission.
 
