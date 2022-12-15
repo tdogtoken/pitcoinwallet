@@ -1,5 +1,4 @@
-# Buy or Sell Pitcoin Video Guide, Click Below: 
-# <p> <a href="https://youtu.be/5bYHIqpEVLk" target="_blank" class="button">Pitcoin Exchange for Investor and Trader Video Guide</a></P>
+
 # Pitcoin Wallet Linux 64 bit :
 
 # Pitcoin Wallet Linux Version should work on any Linux Distros such as Ubuntu Debian Fedora and so on.
