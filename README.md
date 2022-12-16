@@ -1,3 +1,9 @@
+# <p> <a href="https://youtu.be/EhafMgiZnrI" target="_blank" class="button">Pitcoin Wallet Windows Version Video Guide</a></P>
+
+# <p> <a href="https://youtu.be/4IJ71JPPJDs" target="_blank" class="button">Pitcoin Wallet MacOS Video Guide</a></P>
+
+# <p> <a href="https://youtu.be/Tkp7ChGzrBE" target="_blank" class="button">Pitcoin Wallet CLI MacOS Video Guide</a></P>
+
 
 # Pitcoin Wallet Linux 64 bit :
 
